@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_nons_repotestapp_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>david.giesbrecht</sys_created_by>
+        <sys_created_on>2017-06-16 19:59:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3b572b8b4f577e007c5632718110c705</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nons_repotestapp_table</sys_name>
+        <sys_package display_value="RepoTestApp" source="x_nons_repotestapp">72576f4b4f577e007c5632718110c788</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RepoTestApp">72576f4b4f577e007c5632718110c788</sys_scope>
+        <sys_update_name>ua_table_licensing_config_3b572b8b4f577e007c5632718110c705</sys_update_name>
+        <sys_updated_by>david.giesbrecht</sys_updated_by>
+        <sys_updated_on>2017-06-16 19:59:24</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

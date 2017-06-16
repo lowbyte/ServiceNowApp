@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>david.giesbrecht</sys_created_by>
+        <sys_created_on>2017-06-16 19:59:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e757e78b4f577e007c5632718110c7df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nons_repotestapp_table.x_nons_repotestapp.user</sys_name>
+        <sys_package display_value="RepoTestApp" source="x_nons_repotestapp">72576f4b4f577e007c5632718110c788</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RepoTestApp">72576f4b4f577e007c5632718110c788</sys_scope>
+        <sys_security_acl display_value="x_nons_repotestapp_table">a357e78b4f577e007c5632718110c7db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e757e78b4f577e007c5632718110c7df</sys_update_name>
+        <sys_updated_by>david.giesbrecht</sys_updated_by>
+        <sys_updated_on>2017-06-16 19:59:22</sys_updated_on>
+        <sys_user_role display_value="x_nons_repotestapp.user" name="x_nons_repotestapp.user">0357e78b4f577e007c5632718110c798</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
